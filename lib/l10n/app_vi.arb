@@ -1,0 +1,291 @@
+{
+    "loginKey": "Đăng nhập",
+
+    "logoutKey": "Đăng xuất",
+
+    "usernameKey": "Tên đăng nhập",
+
+    "passwordKey": "Mật khẩu",
+
+    "enterKey":"Nhập {text}",
+    "@enterKey": {
+        "placeholders": {
+            "text": {
+                "type": "String"
+            }
+        }
+    },
+
+    "welcomeKey":"Chào mừng {text}",
+    "@welcomeKey": {
+        "placeholders": {
+            "text": {
+                "type": "String"
+            }
+        }
+    },
+
+    "could_not_be_empty": "{text} không được để trống!",
+    "@could_not_be_empty":{
+        "placeholders":{
+            "text":{
+                "type": "String"
+            }
+        }
+    },
+
+    "forgot_passwordKey": "Quên mật khẩu",
+
+    "continueKey": "Tiếp tục",
+
+    "closeKey": "Đóng",
+
+    "backKey": "Quay lại",
+
+    "approvalKey": "Duyệt lệnh",
+
+    "rejectKey": "Từ chối",
+
+    "cancelKey": "Hủy",
+
+    "homeKey": "Trang chủ",
+
+    "reportKey": "Báo cáo",
+
+    "utilitiesKey": "Tiện ích",
+
+    "notificationKey": "Thông báo",
+
+    "ib_informationKey": "Thông báo",
+
+    "setting_labelKey": "Cài đặt",
+
+    "settingKey": "Cài đặt {settingtext, select, GENERAL{chung} WALLPAPER{hình nền} LIMIT{hạn mức} SMARTOTP{CB-Smart OTP} other{}}",
+
+    "@settingKey": {
+        "placeholders":{
+            "settingtext":{
+                "type": "String"
+            }
+        }
+    },
+
+    "pin_smart_otpKey": "{action, select, FORGET{Quên} CHANGE{Đổi} other{}} PIN Smart OTP",
+
+    "@pin_smart_otpKey": {
+        "placeholders":{
+            "action":{
+                "type": "String"
+            }
+        }
+    },
+
+    "login_with_biometricKey":"Đăng nhập bằng vân tay/Face",
+
+    "change_wallpaperKey": "Thay đổi hình nền",
+
+    "user_management_Key":"Quản lý mã truy cập",
+
+    "access_permission_managementKey":"Quản lý quyền truy cập",
+
+    "instructionKey": "Hướng dẫn sử dụng",
+
+    "frequently_asked_questionsKey": "Câu hỏi thường gặp",
+
+    "terms_of_serviceKey": "Điều khoản dịch vụ",
+
+    "search_interest_rateKey": "Tra cứu lãi suất tiền gửi",
+
+    "search_exchange_rateKey": "Tra cứu tỷ giá ngoại tệ",
+
+    "atm_branchKey":"Tra cứu ATM/chi nhánh",
+
+    "service_fee_scheduleKey": "Biểu phí dịch vụ",
+
+    "please_provide_information_to_reset_your_passwordKey": "Quý khách vui lòng cung cấp các thông tin để thiết lập lại mật khẩu truy cập",
+
+    "phonenumberKey": "Số điện thoại",
+
+    "business_registration_numberKey" : "Số đăng ký kinh doanh",
+
+    "accept_terms_of_serviceKey": "Tôi đồng ý cam kết và tuân thủ các điều khoản, điều kiện về các dịch vụ thực hiện trên ngân hàng số IB SME",
+
+    "adminKey": "Mã quản trị",
+
+    "makerKey": "Mã lập lệnh",
+
+    "checkerKey": "Mã duyệt lệnh",
+
+    "favorite_functionKey": "Dịch vụ yêu thích",
+
+    "transferKey": "Chuyển tiền",
+
+    "internal_transferKey": "Chuyển khoản nội bộ",
+
+    "external_transferKey": "Chuyển tiền liên ngân hàng",
+
+    "bank_nameKey": "Ngân hàng xây dựng",
+
+    "quick_transfer_247_outside_cbKey":"Chuyển tiền nhanh Napas 247",
+
+    "bulk_transferKey":"Chuyển tiền bảng kê",
+
+    "bill_paymentKey":"Thanh toán",
+
+    "electricity_billKey":"Hóa đơn tiền điện",
+
+    "postpaid_mobile_phone_billKey":"Cước điện thoại trả sau",
+
+    "water_billKey":"Hóa đơn tiền nước",
+
+    "internet_adsl_billKey":"Cước Internet ADSL",
+
+    "landline_phone_billKey":"Cước điện thoại cố định",
+
+    "transaction_managementKey":"Quản lý giao dịch",
+
+    "instant_transfer_managementKey":"Quản lý giao dịch thông thường",
+
+    "future_periodic_transferKey":"Quản lý giao dịch tương lai định kỳ",
+
+    "rejected_transationsKey":"Danh sách lệnh từ chối",
+
+    "pending_approval_transationsKey":"Quản lý giao dịch chờ duyệt",
+
+    "bulk_transfer_pending_approvalKey":"Giao dịch bảng kê chờ duyệt",
+
+    "manage_beneficiary_listKey":"Quản lý danh bạ thụ hưởng",
+
+    "bill_listKey":"quản lý danh bạ hóa đơn",
+
+    "bulk_transfer_managementKey":"Quản lý giao dịch bảng kê",
+
+    "transaction_fee_reportKey":"Báo cáo phí giao dịch",
+
+    "general_utilitiesKey":"Tiện ích chung",
+
+    "create_a_name_that_remindsKey": "Tạo tên gợi nhớ",
+
+    "change_passwordKey":"Đổi mật khẩu",
+
+    "current_passwordKey":"Mật khẩu hiện tại",
+
+    "new_passwordKey":"Mậ khẩu mới",
+
+    "re_enter_new_passwordKey":"Xác nhận lại mật khẩu mới",
+
+    "validate_passwordKey":"Độ dài tối thiểu 8 ký tự bao gồm ký tự số, chữ thường, chữ hoa và ký tự đặc biệt,",
+    
+    "have_not_stringKey":"Mật khẩu không chứa khoảng trắng, tiếng việt có dấu",
+
+    "new_password_do_not_as_old_passKey":"Mật khẩu cũ không được trùng với mật khẩu gần nhất",
+
+    "trans_typeKey": "{trantype, select, ALL{Tất cả} CORE{Chuyển khoản nội bộ} CORETL{Chuyển khoản tương lai nội bộ} COREDK{Chuyển khoản định kỳ nội bộ} NAPAS{Chuyển khoản nhanh Napas 24/7} NAPASTL{Chuyển khoản tương lai 24/7} NAPASDK{Chuyển khoản định kỳ 24/7} CITAD{Chuyển khoản liên ngân hàng} CITADTL{Chuyển khoản tương lai liên ngân hàng} CITADDK{Chuyển khoản định kỳ liên ngân hàng} other{}}",
+    "@trans_typeKey": {
+        "placeholders": {
+            "trantype": {
+            "type": "String"
+            }
+        }
+    },
+
+    "allKey": "Tất cả",
+
+    "select_accountKey": "Chọn tài khoản đăng nhập",
+
+    "login_with_another_accountKey": "Đăng nhập bằng tài khoản khác",
+
+    "detailKey" : "Chi tiết",
+
+    "balanceKey": "Số dư",
+
+    "total_balanceKey":"tổng số dư",
+    
+    "order_awaiting_approvalKey": "Các lệnh chờ duyệt",
+
+    "payment_accountKey": "Tài khoản thanh toán",
+
+    "deposit_accountKey": "Tài khoản tiền gửi",
+
+    "loan_accountKey": "Tài khoản tiền vay",
+
+    "detail_payment_accountKey": "Chi tiết tài khoản thanh toán",
+
+    "detail_deposit_accountKey": "Chi tiết tài khoản tiền gửi",
+
+    "detail_loan_accountKey": "Chi tiết tài khoản tiền vay",
+
+    "total_owed_balanceKey": "Tổng dư nợ",
+
+    "account_queryKey": "Truy vấn tài khoản",
+
+    "account_listKey": "Danh sách tài khoản",
+
+    "total_available_balanceKey":"Tổng số dư khả dụng",
+
+    "available_balanceKey": "Số dư khả dụng",
+
+    "total_deposit_balanceKey": "Tổng số dư tiền gửi",
+
+    "yearKey": "năm",
+
+    "month": "tháng",
+
+    "day": "ngày",
+
+    "account_numberKey": "Số tài khoản",
+
+    "current_open_dayKey": "Ngày mở hiện tại",
+
+    "current_balanceKey": "Số dư hiện tại",
+
+    "open_atKey": "Mở tại CN/PGD",
+    
+    "last_dayKey": "{daytype, select, 7{7} 30{30} other{}} ngày gần nhất",
+
+    "@last_dayKey":{
+        "placeholders": {
+            "daytype": {
+            "type": "String"
+            }
+        }
+    },
+
+    "last_trading_dayKey": "Ngày giao dịch gần nhất",
+
+    "interest_rateKey": "Lãi suất",
+
+    "accrued_interestKey": "Lãi tích lũy",
+
+    "timeKey": "Thời gian",
+
+    "another_timeKey": "Thời gian khác",
+
+    "codeKey": "Mã giao dịch",
+
+    "export_fileKey": "Xuất file",
+
+    "day_tradingKey": "Ngày giao dịch",
+
+    "debitKey": "Ghi nợ",
+
+    "creditKey": "Ghi có",
+
+    "explainKey": "Diễn giải",
+
+    "statusKey": "Trạng thái",
+
+    "searchKey": "Tìm kiếm",
+
+    "supportKey": "Hỗ trợ",
+
+    "contactKey": "Liên hệ",
+
+    "manage_contactKey":"Quản lý danh bạ",
+
+    "balance_alertKey":"Biến động số dư",
+
+    "otherKey": "Khác",
+
+    "contentKey": "Nội dung"
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "176432592591",
+    "project_id": "cbbankbiz",
+    "storage_bucket": "cbbankbiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176432592591:android:a5fb9f51eebdcf6bbca9ba",
+        "android_client_info": {
+          "package_name": "cbbank.vn.cbwaybiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176432592591-kv3o4u8stndd8l1vtho7obhi9vucklpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtgqjpUg49AwF8s9tdoXy0gVEHdmUfsEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176432592591-kv3o4u8stndd8l1vtho7obhi9vucklpg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176432592591-b8fk05omghj8g1in4nu3oa486987t5um.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ibSmeMbView"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,291 @@
+{
+  "loginKey": "Login",
+
+  "logoutKey": "Log out",
+
+  "usernameKey": "Username",
+  
+  "passwordKey": "Password",
+
+  "enterKey":"Enter {text}",
+  "@enterKey": {
+    "placeholders": {
+        "text": {
+            "type": "String"
+            }
+        }
+    },
+
+  "welcomeKey":"Welcome {text}",
+  "@welcomeKey": {
+    "placeholders": {
+        "text": {
+            "type": "String"
+            }
+        }
+    },
+  
+  "could_not_be_empty": "{text} could not be empty!",
+  "@could_not_be_empty":{
+      "placeholders":{
+          "text":{
+              "type": "String"
+          }
+      }
+  },
+
+  "forgot_passwordKey": "Forgot password",
+
+  "continueKey": "Next",
+
+  "closeKey": "Close",
+
+  "backKey": "Back",
+
+  "approvalKey": "Approval",
+
+  "rejectKey": "Reject",
+
+  "cancelKey": "Canncel",
+
+  "homeKey": "Home",
+
+  "reportKey": "Report",
+
+  "utilitiesKey": "Utilities",
+
+  "notificationKey": "Notifications",
+
+  "ib_informationKey": "IB Information",
+
+  "setting_labelKey": "Settings",
+
+  "settingKey": "{settingtext, select, GENERAL{General} WALLPAPER{Wallpaper} LIMIT{Limit} SMARTOTP{CB-Smart OTP} other{}} setting",
+
+  "@settingKey": {
+        "placeholders":{
+            "settingtext":{
+                "type": "String"
+            }
+        }
+    },
+
+    "pin_smart_otpKey": "{action, select, FORGET{Forget} CHANGE{Change} other{}} PIN Smart OTP",
+
+    "@pin_smart_otpKey": {
+        "placeholders":{
+            "action":{
+                "type": "String"
+            }
+        }
+    },
+
+  "login_with_biometricKey":"Login with Fingerprint/Face",
+
+  "change_wallpaperKey": "Change wallpaper",
+
+  "user_management_Key":"User management",
+
+  "access_permission_managementKey":"Access permission management",
+
+  "instructionKey": "Instruction",
+
+  "frequently_asked_questionsKey": "FAQs",
+
+  "terms_of_serviceKey": "Terms of service",
+
+  "search_interest_rateKey": "Search interest rate",
+
+  "search_exchange_rateKey": "Search Exchange rate",
+
+  "atm_branchKey":"ATM/Branch",
+
+  "service_fee_scheduleKey": "Service fee",
+
+  "please_provide_information_to_reset_your_passwordKey": "Please provide information to reset your password",
+
+  "phonenumberKey": "Phone number",
+
+  "business_registration_numberKey" : "Business registration number",
+
+  "accept_terms_of_serviceKey": "I have read, understood, agreed and committed to comply and using with the terms and conditions of providing and using e-banking services for Corporate customers",
+
+  "adminKey": "Admin",
+
+  "makerKey": "Maker",
+
+  "checkerKey": "Checker",
+
+  "favorite_functionKey": "Favorite functions",
+
+  "transferKey": "Transfer",
+
+  "internal_transferKey": "Internal transfer",
+
+  "external_transferKey": "External transfer",
+
+  "bank_nameKey": "Construction bank",
+
+  "quick_transfer_247_outside_cbKey":"Quick transfer 247 outside CB",
+
+    "bulk_transferKey":"Bulk transfer",
+
+    "bill_paymentKey":"Bill Payment",
+
+    "electricity_billKey":"Electricity bill",
+
+    "postpaid_mobile_phone_billKey":"Postpaid mobile phone bill",
+
+    "water_billKey":"Water bill",
+
+    "internet_adsl_billKey":"Internet ADSL bill",
+
+    "landline_phone_billKey":"Landline phone bill",
+
+    "transaction_managementKey":"Transaction management",
+
+    "instant_transfer_managementKey":"Instant transfer management",
+
+    "future_periodic_transferKey":"Future/periodic transfer",
+
+    "rejected_transationsKey":"Rejected transations",
+
+    "pending_approval_transationsKey":"Pending approval transations",
+
+    "bulk_transfer_pending_approvalKey":"Bulk transfer pending approval",
+
+    "manage_beneficiary_listKey":"Manage beneficiary list",
+
+    "bill_listKey":"Bill list",
+
+    "bulk_transfer_managementKey":"Bulk transfer management",
+
+    "transaction_fee_reportKey":"Transaction fee report",
+
+    "general_utilitiesKey":"General utilities",
+
+    "create_a_name_that_remindsKey":"Create a name that reminds",
+
+    "change_passwordKey":"Change password",
+
+    "current_passwordKey":"Current password",
+
+    "new_passwordKey":"New password",
+
+    "re_enter_new_passwordKey":"Re-enter new password",
+
+    "validate_passwordKey":"The new password contains at least 8 characters, including numeric character, lowercase letter, uppercase letter and special character.",
+
+    "have_not_stringKey":"New assword does not contain blank and Vietnamese",
+
+    "new_password_do_not_as_old_passKey":"The new password cannot be the same as the lasted used password.",
+
+    "trans_typeKey": "{trantype, select, ALL{All} CORE{Transfer within CB} CORETL{Future transfer within CB} COREDK{Periodic transfer within CB} NAPAS{Quick transfer NAPAS 247 to account} NAPASTL{Future transfer NAPAS 247 to account} NAPASDK{Periodic transfer NAPAS 247 to account} CITAD{Interbank transfer} CITADTL{Future Interbank transfer} CITADDK{Periodic Interbank transfer} other{}}",
+    "@trans_typeKey": {
+        "placeholders": {
+            "trantype": {
+            "type": "String"
+            }
+        }
+    },
+
+    "allKey": "All",
+
+    "select_accountKey" :"Select a login account",
+
+    "login_with_another_accountKey": "Login with another account",
+
+    "detailKey" : "Detail",
+
+    "balanceKey": "Balance",
+
+    "total_balanceKey":"Total balance",
+    
+    "order_awaiting_approvalKey": "Orders awaiting approval",
+
+    "payment_accountKey": "Payment account",
+
+    "deposit_accountKey": "Deposit account",
+
+    "loan_accountKey": "Loan account",
+
+    "detail_payment_accountKey": "Detail ayment account",
+
+    "detail_deposit_accountKey": "Detail deposit account",
+
+    "detail_loan_accountKey": "Detail loan account",
+
+    "total_owed_balanceKey": "Total owed balance",
+
+    "account_queryKey": "Account query",
+
+    "account_listKey": "Accounts list",
+
+    "total_available_balanceKey":"Total available balance",
+
+    "available_balanceKey": "Available balance",
+
+    "total_deposit_balanceKey": "Total deposit balance",
+
+    "yearKey": "Year",
+
+    "month": "month",
+
+    "day": "day",
+
+    "account_numberKey": "Account number",
+
+    "current_open_dayKey": "Current opening date",
+
+    "current_balanceKey": "Current balance",
+
+    "open_atKey": "Open at branches/TO",
+
+    "last_dayKey": "Last {daytype, select, 7{7} 30{30} other{}} days",
+
+    "@last_dayKey":{
+        "placeholders": {
+            "daytype": {
+            "type": "String"
+            }
+        }
+    },
+
+    "last_trading_dayKey": "Last trading day",
+
+    "interest_rateKey": "Interest rate",
+
+    "accrued_interestKey": "Accrued interest",
+
+    "timeKey": "Time",
+
+    "another_timeKey": "Another time",
+
+    "codeKey": "code",
+
+    "export_fileKey": "Export file",
+
+    "day_tradingKey": "Day trading",
+
+    "debitKey": "Debit",
+
+    "creditKey": "Credit",
+
+    "explainKey": "Explain",
+
+    "statusKey": "Status",
+
+    "searchKey": "Search",
+
+    "supportKey": "Support",
+
+    "contactKey": "Contact",
+
+    "manage_contactKey":"Manage contact",
+
+    "balance_alertKey":"Balance alert",
+
+    "otherKey": "Other",
+
+    "contentKey": "Content"
+}
