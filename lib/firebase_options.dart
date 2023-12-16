@@ -44,21 +44,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: "AIzaSyCi5pqJ8DTxwOLvV-lSuxkmBgmJ6L6-VV0",
-    authDomain: "teamsoftnoz-cbbiz.firebaseapp.com",
-    projectId: "teamsoftnoz-cbbiz",
-    storageBucket: "teamsoftnoz-cbbiz.appspot.com",
-    messagingSenderId: "1025356878029",
-    appId: "1:1025356878029:web:369f887955d69787e59984",
-    measurementId: "G-1BMCJVBDL4",
+    apiKey: 'AIzaSyBeHSE13fJgCc_RBwxi76cxNzmsb3_xxaw',
+    appId: '1:176432592591:web:d85d6ddec85e71c2bca9ba',
+    messagingSenderId: '176432592591',
+    projectId: 'cbbankbiz',
+    authDomain: 'cbbankbiz.firebaseapp.com',
+    storageBucket: 'cbbankbiz.appspot.com',
+    measurementId: 'G-1V9H7LDZSM',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA-fLFCwMpVDQ3e9wOhhQkjUCM7p72oEes',
-    appId: '1:1025356878029:android:e01a9432cacfdf25e59984',
-    messagingSenderId: '1025356878029',
-    projectId: 'teamsoftnoz-cbbiz',
-    storageBucket: 'teamsoftnoz-cbbiz.appspot.com',
+    apiKey: 'AIzaSyB4-SKPv7kb8ONJfYaoMmov8h2yrE9N9w0',
+    appId: '1:116414671430:android:180f2d3571f137c435b847',
+    messagingSenderId: '116414671430',
+    projectId: 'cbbankbiz',
+    storageBucket: 'cbbankbiz.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(

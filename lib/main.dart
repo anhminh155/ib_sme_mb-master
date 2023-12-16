@@ -64,7 +64,7 @@ Future<void> main(context) async {
   await setupFlutterNotifications();
 
   await Firebase.initializeApp(
-    name: 'Teamsoftnoz-CBBiz',
+    name: 'CBwayBiz',
     options: DefaultFirebaseOptions.currentPlatform,
   );
   FirebaseMessaging.onBackgroundMessage(firebaseMessagingBackgroundHandler);

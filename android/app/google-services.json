@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1025356878029",
-    "project_id": "teamsoftnoz-cbbiz",
-    "storage_bucket": "teamsoftnoz-cbbiz.appspot.com"
+    "project_number": "116414671430",
+    "project_id": "cbwaybiz",
+    "storage_bucket": "cbwaybiz.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1025356878029:android:e01a9432cacfdf25e59984",
+        "mobilesdk_app_id": "1:116414671430:android:180f2d3571f137c435b847",
         "android_client_info": {
           "package_name": "cbbank.vn.cbwaybiz"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA-fLFCwMpVDQ3e9wOhhQkjUCM7p72oEes"
+          "current_key": "AIzaSyCAz2jtK6TYXGS8_X-Y9gKWd7SRisqrVjw"
         }
       ],
       "services": {
